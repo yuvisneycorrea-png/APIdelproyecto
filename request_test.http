@@ -1,0 +1,29 @@
+
+###
+GET http://localhost:3000/carros
+
+###
+GET http://localhost:3000/carros/3
+
+###
+POST http://localhost:3000/carros/
+Content-Type: application/json
+
+{
+    "id": 4,
+    "name":"Alfonso Castrillon",
+    "carro": "Renault",
+    "modelo": "Kwid",
+    "year": 2020
+}
+
+###
+PUT http://localhost:3000/carros/3
+Content-Type: application/json
+
+{
+    "year": 2023
+}
+
+###
+DELETE http://localhost:3000/carros/3

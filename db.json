@@ -1,0 +1,46 @@
+{
+    "carros": [
+        {
+            "id": 1,
+            "name": "Pablo Gonzales",
+            "carro": "Mazda",
+            "modelo": "Mazda 3",
+            "year": 2005
+        },
+        {
+            "id": 2,
+            "name": "Daniel Fuentes",
+            "carro": "Mazda",
+            "modelo": "CX30",
+            "year": 2015
+        },
+        {
+            "id": 3,
+            "name": "Maria Fernandez",
+            "carro": "Mazda",
+            "moselo": "CX-5",
+            "year": 2023
+        },
+        {
+            "id": 4,
+            "name": "Fernanda Mora",
+            "carro": "Mazda",
+            "modelo": "CX30",
+            "year": 2018
+        },
+        {
+            "id": 5,
+            "name": "Alfonso Castrillon",
+            "carro": "Renault",
+            "modelo": "Kwid",
+            "year": 2020
+        },
+        {
+            "id": 6,
+            "name": "Jhon Elkin",
+            "carro": "Renault",
+            "modelo": "Kwid",
+            "year": 2025
+        }
+    ]
+}
